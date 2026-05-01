@@ -11,9 +11,9 @@ redirect_from:
 # 🧐 About Me
 I’m currently a PhD student in the [Department of Electronic and Engineering, The Hong Kong university of Secience and Technology](https://ece.hkust.edu.hk/), supervised by [Prof. Wai Ho MOW](https://seng.hkust.edu.hk/about/people/faculty/wai-ho-mow). Moreover, I got my master degree from [Shandong University](https://www.sdu.edu.cn/index.htm), supervised by [Prof. Shuaishuai Guo](https://faculty.sdu.edu.cn/guoshuaishuai1/zh_CN/index.htm).
 
-👋 CONTACT ME: jfu13 AT stevens.edu
+👋 CONTACT ME: ZAB_SDU@outlook.com
 
-👋 RedNote（小红书）: JeffffffFu
+%👋 RedNote（小红书）: JeffffffFu
 
 
 ### 🤔 Research Interests:
