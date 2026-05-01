@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 🧐 About Me
-Hi, I am pursuing my PhD at the [Department of Electronic and Engineering, The Hong Kong university of Secience and Technology](https://ece.hkust.edu.hk/), supervised by [Prof. Wai Ho MOW](https://seng.hkust.edu.hk/about/people/faculty/wai-ho-mow). Before that, I got my master degree from [East China Normal University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). I have worked as a research assistant at the Hong Kong Polytechnic University (under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a> ) and Hokkaido University (under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>).
+I’m currently a PhD student in the [Department of Electronic and Engineering, The Hong Kong university of Secience and Technology](https://ece.hkust.edu.hk/), supervised by [Prof. Wai Ho MOW](https://seng.hkust.edu.hk/about/people/faculty/wai-ho-mow). Before that, I got my master degree from [East China Normal University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). I have worked as a research assistant at the Hong Kong Polytechnic University (under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a> ) and Hokkaido University (under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>).
 
 👋 CONTACT ME: jfu13 AT stevens.edu
 
