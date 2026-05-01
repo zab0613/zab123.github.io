@@ -14,13 +14,11 @@ I’m currently a PhD student in the [Department of Electronic and Engineering, 
 👋 CONTACT ME: ZAB_SDU@outlook.com
 
 ### 🤔 Research Interests:
-* Differential Privacy
+* Generative AI
 * Federated Learning
-* Privacy in GNNs
-* Machine Unlearning
-* Privacy and Safety of LLM
-* Trustworthy Machine Learning (fairness, privacy and robustness)
-
+* Wireless Communication
+* Privacy and Security
+* Fine-tuning of Large Language Models
 
 # 🔥 News
 <style>
