@@ -13,9 +13,6 @@ I’m currently a PhD student in the [Department of Electronic and Engineering, 
 
 👋 CONTACT ME: ZAB_SDU@outlook.com
 
-%👋 RedNote（小红书）: JeffffffFu
-
-
 ### 🤔 Research Interests:
 * Differential Privacy
 * Federated Learning
