@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : " Anbang Zhang"
-  avatar           : "images/张安邦.png"
-  bio              : #"Lorem ipsum College"
-  location         : "Hoboken, USA"
+  avatar           : "images/ZAB.png"
+  bio              : #"The Hong Kong University of Science and Technology (HKUST)"
+  location         : "HongKong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?&user=VcgK6nAAAAAJ"
-  email            : "jfu13@stevens.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=GgnNtaMAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "ZAB_SDU@outlook"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JeffffffFu"
+  github           : "zab0613"
   google_plus      :
   keybase          :
   instagram        :
